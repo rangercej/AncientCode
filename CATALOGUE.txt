@@ -1,0 +1,10 @@
+Filename      Origin Date  Description
+------------  -----------  --------------------------------------------------
+BRACKET1.PAS   1 Jun 1992  As above.
+CDD.PAS        2 Mar 1992  Command line util to change drive and directory
+DELAY.PAS      7 Jul 1992  DOS version of "sleep" taking milliseconds as time
+EVAL.PAS       8 Apr 1992  Command line calculator
+EVALUATE.PAS   1 Jun 1992  Command line calculator (v2, by the looks of it)
+PRIME.PAS      5 Jul 1992  Finds divisors of a number (brute force)
+PRMFACT.PAS    5 Jul 1992  Finds prime factors of a number
+TURTGRPH.PAS  17 Jul 1992  Turtle graphics on CGA!
